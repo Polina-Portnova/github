@@ -1,0 +1,11 @@
+.head  {
+    height: 120px;
+    background-image: url('img/head.jpg')
+}
+
+.backgroung {
+    width: auto;
+    height: auto;
+    background-image: url('img/background.jpg');
+}
+
