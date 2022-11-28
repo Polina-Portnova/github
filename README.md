@@ -1,4 +1,3 @@
-# github
 <!DOCTYPE html>
    <html lang="ru">	<!--Установка основного языка страницы - русский-->
       <head>
